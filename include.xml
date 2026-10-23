@@ -70,7 +70,7 @@
   <project path="vendor/gms" name="ralph950412/google-mobile-services" remote="gitlab" revision="cp2a-lfs" clone-depth="1" />
 
   <!-- Hardware -->
-  <project path="hardware/google/pixel" name="android_hardware_google_pixel" remote="statix-staging" />
+  <project path="hardware/google/pixel" name="android_hardware_google_pixel" remote="stx-onyx" revision="cp2a" />
   <project path="hardware/google/pixel-sepolicy" name="android_hardware_google_pixel-sepolicy" remote="statix-staging" />
   <project path="hardware/interfaces" name="android_hardware_interfaces" remote="statix-staging" />
   <project path="hardware/libhardware" name="android_hardware_libhardware" remote="statix-staging" />
