@@ -15,6 +15,10 @@
            revision="cp2a"
            fetch="https://github.com/stx-staging/" />
 
+  <!-- GitHub (STX-Onyx) -->
+  <remote  name="stx-onyx"
+           fetch="https://github.com/stx-onyx/" />
+
   <!-- GitLab -->
   <remote name="gitlab"
            fetch="https://gitlab.com/" />
