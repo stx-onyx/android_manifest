@@ -90,6 +90,7 @@
   <project path="vendor/qcom/opensource/agm" name="android_vendor_qcom_opensource_agm" remote="statix" revision="udc-caf-sm8450" />
   <project path="vendor/qcom/opensource/audio" name="platform/vendor/qcom-opensource/audio" remote="caf" />
   <project path="vendor/qcom/opensource/audio-hal/st-hal" name="android_vendor_qcom_opensource_audio-hal_st-hal" remote="statix" revision="tm"/>
+  <project path="vendor/qcom/opensource/audio-hal/st-hal-ar" name="LineageOS/android_vendor_qcom_opensource_audio-hal_st-hal-ar" remote="github" revision="lineage-24.0" />
   <project path="vendor/qcom/opensource/data-ipa-cfg-mgr" name="android_vendor_qcom_opensource_data-ipa-cfg-mgr" remote="statix" revision="vic"/>
   <project path="vendor/qcom/opensource/data-ipa-cfg-mgr-nogki" name="android_vendor_qcom_opensource_data-ipa-cfg-mgr" remote="statix" revision="bak-nogki" />
   <project path="vendor/qcom/opensource/dataservices" name="android_vendor_qcom_opensource_dataservices" remote="statix" revision="tm"/>
@@ -106,4 +107,6 @@
   <project path="vendor/qcom/opensource/commonsys-intf/wfd" name="android_vendor_qcom_opensource_wfd-commonsys" remote="statix-staging" revision="cb" />
   <project path="vendor/qcom/opensource/commonsys/fm" name="android_vendor_qcom_opensource_fm-commonsys" remote="statix" revision="vic" />
   <project path="vendor/qcom/opensource/libfmjni" name="android_vendor_qcom_opensource_libfmjni" remote="statix" revision="vic" />
+  <project path="vendor/qcom/opensource/commonsys-intf/audio" name="LineageOS/android_vendor_qcom_opensource_audio-commonsys-intf" remote="github" revision="lineage-24.0" />
+  <project path="vendor/qcom/opensource/libvmmem" name="LineageOS/android_vendor_qcom_opensource_libvmmem" remote="github" revision="lineage-24.0" />
 </manifest>
