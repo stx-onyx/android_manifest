@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!-- Xiaomi POCO F7 (onyx) -->
+  <project path="device/xiaomi/onyx" name="android_device_xiaomi_onyx" remote="stx-onyx" revision="cp2a" />
+  <project path="device/xiaomi/onyx-kernel" name="android_device_xiaomi_onyx-kernel" remote="stx-onyx" revision="beryl" clone-depth="1" />
+  <project path="vendor/xiaomi/onyx" name="proprietary_vendor_xiaomi_onyx" remote="stx-onyx" revision="cp2a" clone-depth="1" />
+
+  <!-- MiuiCamera -->
+  <project path="device/xiaomi/onyx-miuicamera" name="android_device_xiaomi_onyx-miuicamera" remote="stx-onyx" revision="lineage-24.0" />
+  <project path="vendor/xiaomi/onyx-miuicamera" name="proprietary_vendor_xiaomi_onyx-miuicamera" remote="stx-onyx" revision="lineage-24.0" clone-depth="1" />
+
+  <!-- Xiaomi hardware -->
+  <project path="hardware/xiaomi" name="LineageOS/android_hardware_xiaomi" remote="github" revision="lineage-24.0" />
+
+</manifest>
