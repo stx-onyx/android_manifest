@@ -108,5 +108,6 @@
   <project path="vendor/qcom/opensource/commonsys/fm" name="android_vendor_qcom_opensource_fm-commonsys" remote="statix" revision="vic" />
   <project path="vendor/qcom/opensource/libfmjni" name="android_vendor_qcom_opensource_libfmjni" remote="statix" revision="vic" />
   <project path="vendor/qcom/opensource/commonsys-intf/audio" name="LineageOS/android_vendor_qcom_opensource_audio-commonsys-intf" remote="github" revision="lineage-24.0" />
+  <project path="vendor/qcom/opensource/commonsys/audio" name="LineageOS/android_vendor_qcom_opensource_audio" remote="github" revision="lineage-24.0" />
   <project path="vendor/qcom/opensource/libvmmem" name="LineageOS/android_vendor_qcom_opensource_libvmmem" remote="github" revision="lineage-24.0" />
 </manifest>
