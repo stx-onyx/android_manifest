@@ -86,7 +86,7 @@
   <project path="hardware/qcom-caf/wlan" name="android_hardware_qcom_wlan" remote="statix-staging" revision="cb-caf" />
 
   <!-- Vendor -->
-  <project path="vendor/codeaurora/telephony" name="android_vendor_codeaurora_telephony" remote="statix" revision="vic"/>
+  <project path="vendor/codeaurora/telephony" name="LineageOS/android_vendor_codeaurora_telephony" remote="github" revision="lineage-24.0" />
   <project path="vendor/qcom/opensource/agm" name="android_vendor_qcom_opensource_agm" remote="statix" revision="udc-caf-sm8450" />
   <project path="vendor/qcom/opensource/audio" name="platform/vendor/qcom-opensource/audio" remote="caf" />
   <project path="vendor/qcom/opensource/audio-hal/st-hal" name="android_vendor_qcom_opensource_audio-hal_st-hal" remote="statix" revision="tm"/>
